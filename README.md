@@ -30,16 +30,15 @@ Table of Contents
 
 Online Courses
 =================
-
-- [Social-Engineer.com - Social Engineering Training](https://www.social-engineer.com/social-engineering-training/)
-
-- [IntelTechniques.com - Online OSINT Training Course](https://inteltechniques.com/online.aspx)
+- [Open-source Social Engineering Education Course](https://oseec.github.io/contents/)
 
 - [Udemy - Learn Social Engineering from Scratch](https://www.udemy.com/learn-social-engineering-from-scratch)
 
 - [PacktPub - Learn Social Engineering From Scratch by Zaid Sabih](https://www.packtpub.com/application-development/learn-social-engineering-scratch-video)
 
 - [Cybrary - Social Engineering and Manipulation](https://www.cybrary.it/course/social-engineering/) - Free Course
+
+- [Layer 8 podcast - podcast and conference focused on SE and OSINT ](https://anchor.fm/layer-8-podcast)
 
 
 
@@ -52,6 +51,17 @@ Capture the Flag
 Psychology Books
 =================
 Most of these books covers the basics of psychology useful for a social engineer.
+
+- [Artful persuasion: how to command attention, change minds and infulence people]
+(https://www.amazon.com/Artful-Persuasion-Command-Attention-Influence/dp/0814470637)
+
+- [Dealing with difficult people Dr. Rick Brinkman and Dr. Rick Kirschner]
+(https://www.amazon.com/Deal-Difficult-People-Rick-Brinkman/dp/0943066433)
+
+
+
+- [Made to stick - Why some ideas survive and other die]
+ (https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287)
 
 - [How to Win Friends and Influence People - Dale Carnegie](https://www.amazon.co.uk/d/Books/How-Win-Friends-Influence-People-Dale-Carnegie/0091906814/ref=sr_1_1?ie=UTF8&qid=1494621059&sr=8-1&keywords=how+to+win+friends+and+influence+people)
 
@@ -73,6 +83,12 @@ Most of these books covers the basics of psychology useful for a social engineer
 
 Social Engineering Books
 =================
+
+- [Human Hacking - Chris Hadnagy]
+(https://humanhackingbook.com/)
+
+- [What is every BODY saying - Joe Navarro]
+(https://www.amazon.com/What-Every-Body-Saying-Speed-Reading/dp/0061438294)
 
 - [Social Engineering: The Art of Human Hacking - Chris Hadnagy](https://www.amazon.co.uk/Social-Engineering-Art-Human-Hacking/dp/0470639539/ref=sr_1_1?ie=UTF8&qid=1494622911&sr=8-1&keywords=chris+hadnagy)
 
